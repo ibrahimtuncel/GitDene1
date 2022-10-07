@@ -17,6 +17,8 @@ public static void main(String[] args) {
 		list1.add('t');
 
 		System.out.println(list1);
+		
+		list1.add('h');
 
 	}
 
