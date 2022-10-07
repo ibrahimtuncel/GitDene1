@@ -19,7 +19,8 @@ public static void main(String[] args) {
 		System.out.println(list1);
 		
 		list1.add('h');
-
+System.out.println(list1);
+	
 	}
 
 }
