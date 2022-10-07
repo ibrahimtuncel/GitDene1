@@ -19,6 +19,8 @@ public static void main(String[] args) {
 		System.out.println(list1);
 		
 		list1.add('h');
+		list1.add('v');
+	
 System.out.println(list1);
 	
 	}
