@@ -20,6 +20,8 @@ public static void main(String[] args) {
 		
 		list1.add('h');
 		list1.add('v');
+		
+		list1.add('s');
 	
 System.out.println(list1);
 	
