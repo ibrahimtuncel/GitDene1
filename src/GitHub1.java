@@ -21,8 +21,13 @@ public static void main(String[] args) {
 		list1.add('h');
 		list1.add('v');
 		
+<<<<<<< HEAD
 		list1.add('s');
 	
+=======
+		list1.add('k');
+		
+>>>>>>> f11d0a3da857d07424c6cf55e77852e2c38e60a8
 System.out.println(list1);
 	
 	}
